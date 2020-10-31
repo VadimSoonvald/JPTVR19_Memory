@@ -1,0 +1,15 @@
+dog собака
+mail сообщение
+cat кошка
+table стол
+pen ручка
+mouse мышка
+phone телефон
+microphone микрофон
+game игра
+cup чашка
+lamp лампа
+charge зарядка
+hat шапка
+russia россия
+keyboard клавиатура
